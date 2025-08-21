@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Code+Craftsman" alt="Typing SVG" />
 </div>
 
-<img align="right" src="https://media.giphy.com/media/YP18Zd6USvspG/giphy.gif" width="300" height="300" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGx6dGRkNDNkMzBpOXplZGRsMjBydmJxbGcxc2c2dTR5cGZqeW9zbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YP18Zd6USvspG/giphy.gif" width="300" height="300" />
 
 ```ascii
 ╔══════════════════════════════════╗
@@ -70,7 +70,7 @@
 
 ## 📊 **GitHub Analytics**
 
-<img align="left" src="https://i.pinimg.com/originals/ea/0c/b2/ea0cb29c0eefc0e71b2f0c4c0e5c8645.gif" width="200" height="150" />
+<img align="left" src="https://media.giphy.com/media/UDclWy9JcFz2M/giphy.gif" width="200" height="150" />
 
 <div align="center">
   
@@ -88,7 +88,7 @@
 
 ## 💭 **Daily Inspiration**
 
-<img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" height="150" />
+<img align="right" src="https://media.giphy.com/media/l2Sq29cFXoF80ADlK/giphy.gif" width="200" height="150" />
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
