@@ -1,61 +1,120 @@
+# 🌟 **THE ARCHITECT OF DIGITAL REALMS** 🌟
 
-# 💫 About Me:
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=SHIVAM.EXE+LOADING...;FULL+STACK+WIZARD;CODE+ALCHEMIST;PROBLEM+DEMOLISHER" alt="Typing SVG" />
+</div>
 
-<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="" height="150px">
-Hi 👋, I'm Shivam.
-<img src="https://i.gifer.com/4AIB.gif" alt="" height="150px">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" />
 
+```ascii
+╔══════════════════════════════════════╗
+║  📡 SYSTEM STATUS: ONLINE            ║
+║  🔥 AURA LEVEL: MAXIMUM              ║
+║  ⚡ CAFFEINE: PERMANENTLY ACTIVATED  ║
+║  🎯 MISSION: CODE DOMINATION         ║
+╚══════════════════════════════════════╝
+```
 
-<br>A passionate Full Stack Developer from India.
-<br>🔭 I’m currently working for Upskilling My Problem Solving skill.
-<br>⚡ Fun fact - I like Coffee During Breaks.
+## 🚀 **LEGENDARY STATUS UNLOCKED**
 
+> **"Every line of code I write is a brushstroke on the canvas of the digital universe"**
 
-
-
-
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=shivamch02&theme=jolly&hide_border=false)
-
-<br>
-<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=divyansh2375&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyansh2375&show_icons=true&locale=en" alt="divyansh2375"  /></p> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamch02&show_icons=true&locale=en" alt="shivamch02"  />
-<img align="right"  src="https://blog.joypixels.com/content/images/2019/06/trophy_1024.gif" alt="" height="100px">
-
-
-<br/>  
-
-
-
-
-
-
-
-
-
-
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Tailwind Css](https://img.shields.io/badge/tailwindcss-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Typescript](https://img.shields.io/badge/typescript-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-
-
-
-
-### ✍️ Random Quote 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
+- 🎯 **CURRENT QUEST:** Ascending to Grandmaster Problem Solver
+- 💀 **DEBUGGING DEMONS:** Eliminated on sight
+- ☕ **FUEL SOURCE:** Premium caffeine compounds
+- 🌍 **ORIGIN:** The mystical lands of India
+- 🧠 **SUPERPOWER:** Transforming coffee into code
 
 ---
-[![](https://visitcount.itsvg.in/api?id=divyansh2375&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://www.gifcen.com/wp-content/uploads/2021/05/thank-you-gif-3.gif" alt="" height="100px">
+## 💎 **ARSENAL OF DESTRUCTION**
 
- Visitors For visiting My profile
- <br>
+<div align="center">
+
+### **⚔️ WEAPONS OF CHOICE ⚔️**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### **🛡️ DEFENSIVE SYSTEMS 🛡️**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### **⚙️ DEPLOYMENT INFRASTRUCTURE ⚙️**
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📈 **LEGENDARY ACHIEVEMENTS**
+
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamch02&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e39777&fire=e39777&currStreakLabel=e39777" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=shivamch02&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=e39777&icon_color=e39777&text_color=FFFFFF" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamch02&bg_color=0D1117&color=e39777&line=e39777&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🎭 **DAILY WISDOM FROM THE CODE SAGE**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
+## 🔥 **THE AURA CHAMBER**
+
+<div align="center">
+  
+```
+    ⭐ VISITOR COUNTER ⭐
+    ┌─────────────────────┐
+    │  LEGENDS WHO HAVE   │
+    │  WITNESSED THE AURA │
+    └─────────────────────┘
+```
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=shivamch02&label=AURA%20WITNESSES&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+</div>
+
+---
+
+## 🌟 **CONNECT WITH THE LEGEND**
+
+<div align="center">
+  
+**"In a world full of programmers, be a Code Wizard"**
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Ready to collaborate and create digital magic!</b></em>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivamch02)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</div>
+
+---
+
+<div align="center">
+  <b>✨ CRAFTED WITH PURE AURA AND UNLIMITED CAFFEINE ✨</b>
+</div>
