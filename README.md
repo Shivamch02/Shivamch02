@@ -3,10 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Code+Craftsman" alt="Typing SVG" />
 </div>
 
-<!-- Anime Banner -->
 <div align="center">
-  <img src="https://i.ibb.co/4pQ9Wq8/anime-banner-bw.jpg" alt="Anime Banner" width="100%" />
+![anime-black-and-white-background-kvprlq5w5vvcar6g](https://github.com/user-attachments/assets/ae8004f0-6407-460d-b69a-a6926b678ee3)
 </div>
+
+
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="250" />
 
