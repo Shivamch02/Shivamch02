@@ -1,7 +1,4 @@
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Code+Craftsman" alt="Typing SVG" />
-</div>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/37e7399c-ddd5-4e41-ad86-f462d7b30428" alt="Anime Banner" width="100%" />
