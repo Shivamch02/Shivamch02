@@ -1,22 +1,9 @@
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/37e7399c-ddd5-4e41-ad86-f462d7b30428" alt="Anime Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/44f32872-bc74-49f1-b3f4-c5afde04e4dc" alt="Anime Banner" width="100%" />
 </div>
 
-
-
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="250" />
-
-```ascii
-╔══════════════════════════════════╗
-║  🚀 STATUS: Building & Creating  ║
-║  📍 LOCATION: 127.0.0.1           ║
-║  ☕ FUEL: Coffee & Code          ║
-║  🎯 FOCUS: Full Stack            ║
-╚══════════════════════════════════╝
-```
 
 ## 👨‍💻 **About Me**
 
