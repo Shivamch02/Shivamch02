@@ -57,8 +57,11 @@
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=shivamch02&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamch02&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamch02&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+
+
 
 </div>
 
