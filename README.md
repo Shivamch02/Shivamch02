@@ -4,8 +4,9 @@
 </div>
 
 <div align="center">
-![anime-black-and-white-background-kvprlq5w5vvcar6g](https://github.com/user-attachments/assets/ae8004f0-6407-460d-b69a-a6926b678ee3)
+  <img src="https://github.com/user-attachments/assets/ae8004f0-6407-460d-b69a-a6926b678ee3" alt="Anime Banner" width="100%" />
 </div>
+
 
 
 
