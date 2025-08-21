@@ -1,4 +1,4 @@
-# 🌟 **SHIVAM** 🌟
+# 🌟 **Shivam** 🌟
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Code+Craftsman" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 ```ascii
 ╔══════════════════════════════════╗
 ║  🚀 STATUS: Building & Creating  ║
-║  📍 LOCATION: India              ║
+║  📍 LOCATION: 127.0.0.1           ║
 ║  ☕ FUEL: Coffee & Code          ║
 ║  🎯 FOCUS: Full Stack Mastery    ║
 ╚══════════════════════════════════╝
@@ -19,11 +19,9 @@
 
 > **"Crafting digital experiences one line at a time"**
 
-- 🔧 **Currently Building:** Advanced problem-solving skills
-- 💡 **Passionate About:** Creating seamless user experiences
-- ☕ **Daily Ritual:** Coffee-driven development sessions
-- 🌱 **Always Learning:** New technologies and best practices
-- 🎨 **Philosophy:** Clean code is readable code
+- 🚀 **Building** modern web applications
+- ☕ **Powered by** coffee and curiosity  
+- 💻 **Focused on** clean, scalable solutions
 
 ---
 
@@ -31,25 +29,40 @@
 
 <div align="center">
 
-### **Frontend**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **Backend & Database**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-### **Styling & Tools**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -79,25 +92,13 @@
 
 ---
 
-## 📈 **Profile Views**
+## 📈 **Profile Statistics**
 
 <div align="center">
   
-[![Profile Views](https://visitcount.itsvg.in/api?id=shivamch02&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=shivamch02&color=00d9ff&style=for-the-badge)
 
 </div>
-
----
-
-<div align="center">
-  
-**"Code is poetry written in logic"**
-
-*Building the future, one commit at a time* ✨
-
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0099CC&height=60&section=footer"/>
