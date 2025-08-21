@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ae8004f0-6407-460d-b69a-a6926b678ee3" alt="Anime Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/37e7399c-ddd5-4e41-ad86-f462d7b30428" alt="Anime Banner" width="100%" />
 </div>
 
 
